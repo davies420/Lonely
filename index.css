@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(59, 248, 42);
+}
+h1{
+    background-color: rgb(234, 248, 42);
+    font-size: 60px;
+    border-radius: 20px;
+}
+span{
+ color: darkred
+ ;
+}
+div{
+    background-color:  rgb(59, 248, 42);  
+}
+input{
+    padding: 1vh 2vw;
+    margin: 20px;
+    border-radius: 12px;
+}
+label{
+    padding: 0vh 1vw;
+    margin: 20px;
+    border-radius: 12px;
+}
+form{
+    background-color: rgb(224, 8, 8);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+button{
+    margin: 12px;
+    border-radius: 10px;
+    padding-right: 10px;
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.fems{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.pills{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.exhale{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.anthill{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.why{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.water{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
+.wrong{
+    color: rgb(255, 81, 0);
+    background-color: aqua;
+}
